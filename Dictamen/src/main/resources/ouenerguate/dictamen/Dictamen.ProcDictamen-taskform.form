@@ -1,0 +1,984 @@
+
+<form id="1353792918">
+<property name="name" value="Dictamen.ProcDictamen-taskform.form"/>
+<property name="displayMode" value="default"/>
+<property name="status" value="0"/>
+<field position="0" name="capacidad" type="InputText" id="271512474">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;capacidad (capacidad)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="capacidad"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="1" name="dictamen" type="InputText" id="983783467">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;dictamen (dictamen)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="dictamen"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="2" name="direObra" type="InputText" id="1652040393">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;direObra (direObra)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="direObra"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="3" name="direRespuesta" type="InputText" id="1195648789">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;direRespuesta (direRespuesta)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="direRespuesta"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="4" name="empresa" type="InputText" id="1904529408">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;empresa (empresa)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="empresa"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="5" name="fecha" type="InputText" id="1835986654">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;fecha (fecha)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="fecha"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="6" name="lugar" type="InputText" id="1970252575">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;lugar (lugar)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="lugar"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="7" name="nombreObra" type="InputText" id="1968743729">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;nombreObra (nombreObra)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="nombreObra"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="8" name="telefono" type="InputText" id="243277916">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;telefono (telefono)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="telefono"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="9" name="tension" type="InputText" id="1975978328">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;tension (tension)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="tension"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="10" name="varCodCaso" type="InputText" id="1405562991">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;varCodCaso (varCodCaso)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varCodCaso"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="11" name="bt" type="InputText" id="1375117742">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;bt (bt)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="bt"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="12" name="cantidad10kva" type="InputText" id="1662757913">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;cantidad10kva (cantidad10kva)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="cantidad10kva"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="13" name="cantidad25kva" type="InputText" id="1931135266">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;cantidad25kva (cantidad25kva)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="cantidad25kva"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="14" name="cantidad50kva" type="InputText" id="315530598">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;cantidad50kva (cantidad50kva)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="cantidad50kva"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="15" name="cantidad75kva" type="InputText" id="1268178147">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;cantidad75kva (cantidad75kva)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="cantidad75kva"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="16" name="cantidadOtros" type="InputText" id="1302649672">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;cantidadOtros (cantidadOtros)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="cantidadOtros"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="17" name="coordenadasX" type="InputText" id="852701565">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;coordenadasX (coordenadasX)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="coordenadasX"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="18" name="coordenadasY" type="InputText" id="16099170">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;coordenadasY (coordenadasY)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="coordenadasY"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="19" name="descripcionTranforma" type="InputText" id="807437165">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;descripcionTranforma (descripcionTranforma)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="descripcionTranforma"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="20" name="fases" type="InputText" id="1282541681">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;fases (fases)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="fases"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="21" name="longCircuitoBaja" type="InputText" id="537848229">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;longCircuitoBaja (longCircuitoBaja)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="longCircuitoBaja"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="22" name="longCircuitoMedia" type="InputText" id="1153122600">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;longCircuitoMedia (longCircuitoMedia)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="longCircuitoMedia"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="23" name="neutro" type="InputText" id="328991585">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;neutro (neutro)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="neutro"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="24" name="nombreInteresado" type="InputText" id="41907311">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;nombreInteresado (nombreInteresado)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="nombreInteresado"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="25" name="numClienteConectar" type="InputText" id="805309759">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;numClienteConectar (numClienteConectar)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="numClienteConectar"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="26" name="potenciaTotal" type="InputText" id="99110407">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;potenciaTotal (potenciaTotal)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="potenciaTotal"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="27" name="tipo10kva" type="InputText" id="638093653">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;tipo10kva (tipo10kva)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="tipo10kva"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="28" name="tipo25kva" type="InputText" id="606195246">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;tipo25kva (tipo25kva)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="tipo25kva"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="29" name="tipo50kva" type="InputText" id="279830369">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;tipo50kva (tipo50kva)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="tipo50kva"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="30" name="tipo75kva" type="InputText" id="830848776">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;tipo75kva (tipo75kva)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="tipo75kva"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="31" name="tipoServicio" type="InputText" id="1724756652">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;tipoServicio (tipoServicio)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="tipoServicio"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="32" name="varGrupoIngreso" type="InputText" id="710903856">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;varGrupoIngreso (varGrupoIngreso)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varGrupoIngreso"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="33" name="varObjectSolicitud_capacidad" type="InputText" id="1046004292">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;capacidad (varObjectSolicitud)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectSolicitud/capacidad"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="34" name="varObjectSolicitud_dirObra" type="InputText" id="522777019">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;dirObra (varObjectSolicitud)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectSolicitud/dirObra"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="35" name="varObjectSolicitud_direRespuesta" type="InputText" id="377932613">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;direRespuesta (varObjectSolicitud)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectSolicitud/direRespuesta"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="36" name="varObjectSolicitud_empresa" type="InputText" id="879061009">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;empresa (varObjectSolicitud)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectSolicitud/empresa"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="37" name="varObjectSolicitud_fecha" type="InputText" id="1867880285">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;fecha (varObjectSolicitud)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectSolicitud/fecha"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="38" name="varObjectSolicitud_lugar" type="InputText" id="1917380674">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;lugar (varObjectSolicitud)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectSolicitud/lugar"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="39" name="varObjectSolicitud_nombreObra" type="InputText" id="158865674">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;nombreObra (varObjectSolicitud)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectSolicitud/nombreObra"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="40" name="varObjectSolicitud_telefono" type="InputText" id="539740139">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;telefono (varObjectSolicitud)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectSolicitud/telefono"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="41" name="varObjectSolicitud_tension" type="InputText" id="1351623275">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;tension (varObjectSolicitud)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectSolicitud/tension"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="42" name="especificaciones" type="InputText" id="94519017">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;especificaciones (especificaciones)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="especificaciones"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="43" name="fechaEmision" type="InputText" id="1559911184">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;fechaEmision (fechaEmision)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="fechaEmision"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="44" name="noReferencia" type="InputText" id="292152464">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;noReferencia (noReferencia)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="noReferencia"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="45" name="varObjectTipoConductor_bt" type="InputText" id="324543939">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;bt (varObjectTipoConductor)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectTipoConductor/bt"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="46" name="varObjectTipoConductor_coordenadasX" type="InputText" id="181726419">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;coordenadasX (varObjectTipoConductor)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectTipoConductor/coordenadasX"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="47" name="varObjectTipoConductor_coordenadasY" type="InputText" id="1669424001">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;coordenadasY (varObjectTipoConductor)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectTipoConductor/coordenadasY"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="48" name="varObjectTipoConductor_fases" type="InputText" id="1304414814">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;fases (varObjectTipoConductor)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectTipoConductor/fases"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="49" name="varObjectTipoConductor_neutro" type="InputText" id="404955156">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;neutro (varObjectTipoConductor)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectTipoConductor/neutro"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="50" name="varObjectTipoConductor_nombreInteresado" type="InputText" id="506128312">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;nombreInteresado (varObjectTipoConductor)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectTipoConductor/nombreInteresado"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="51" name="varObjectTipoConductor_numClienteConectar" type="InputText" id="1975004293">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;numClienteConectar (varObjectTipoConductor)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectTipoConductor/numClienteConectar"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="52" name="varObjectTipoConductor_tipoServicio" type="InputText" id="55221282">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;tipoServicio (varObjectTipoConductor)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectTipoConductor/tipoServicio"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="53" name="varObjectTransformadores_cantidad10kva" type="InputText" id="292853626">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;cantidad10kva (varObjectTransformadores)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectTransformadores/cantidad10kva"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="54" name="varObjectTransformadores_cantidad25kva" type="InputText" id="1203225013">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;cantidad25kva (varObjectTransformadores)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectTransformadores/cantidad25kva"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="55" name="varObjectTransformadores_cantidad50kva" type="InputText" id="2097863263">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;cantidad50kva (varObjectTransformadores)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectTransformadores/cantidad50kva"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="56" name="varObjectTransformadores_cantidad75kva" type="InputText" id="483467337">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;cantidad75kva (varObjectTransformadores)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectTransformadores/cantidad75kva"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="57" name="varObjectTransformadores_cantidadOtros" type="InputText" id="711962362">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;cantidadOtros (varObjectTransformadores)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectTransformadores/cantidadOtros"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="58" name="varObjectTransformadores_descripcionTranforma" type="InputText" id="1447733513">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;descripcionTranforma (varObjectTransformadores)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectTransformadores/descripcionTranforma"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="59" name="varObjectTransformadores_longCircuitoBaja" type="InputText" id="93773191">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;longCircuitoBaja (varObjectTransformadores)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectTransformadores/longCircuitoBaja"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="60" name="varObjectTransformadores_longCircuitoMedia" type="InputText" id="1214250315">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;longCircuitoMedia (varObjectTransformadores)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectTransformadores/longCircuitoMedia"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="61" name="varObjectTransformadores_potenciaTotal" type="InputText" id="1141941614">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;potenciaTotal (varObjectTransformadores)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectTransformadores/potenciaTotal"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="62" name="varObjectTransformadores_tipo10kva" type="InputText" id="1835275698">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;tipo10kva (varObjectTransformadores)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectTransformadores/tipo10kva"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="63" name="varObjectTransformadores_tipo25kva" type="InputText" id="1076229035">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;tipo25kva (varObjectTransformadores)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectTransformadores/tipo25kva"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="64" name="varObjectTransformadores_tipo50kva" type="InputText" id="729731017">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;tipo50kva (varObjectTransformadores)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectTransformadores/tipo50kva"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="65" name="varObjectTransformadores_tipo75kva" type="InputText" id="146023647">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;tipo75kva (varObjectTransformadores)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectTransformadores/tipo75kva"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="66" name="varObjectCoordenadas_breveDesc" type="InputText" id="1897109324">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;breveDesc (varObjectCoordenadas)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectCoordenadas/breveDesc"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="67" name="varObjectCoordenadas_cantidadPoste1" type="InputText" id="1729946768">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;cantidadPoste1 (varObjectCoordenadas)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectCoordenadas/cantidadPoste1"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="68" name="varObjectCoordenadas_cantidadPoste2" type="InputText" id="1270067017">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;cantidadPoste2 (varObjectCoordenadas)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectCoordenadas/cantidadPoste2"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="69" name="varObjectCoordenadas_cantidadPoste3" type="InputText" id="1982078812">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;cantidadPoste3 (varObjectCoordenadas)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectCoordenadas/cantidadPoste3"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="70" name="varObjectCoordenadas_cantidadPoste4" type="InputText" id="739903802">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;cantidadPoste4 (varObjectCoordenadas)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectCoordenadas/cantidadPoste4"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="71" name="varObjectCoordenadas_cantidadPoste5" type="InputText" id="519797543">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;cantidadPoste5 (varObjectCoordenadas)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectCoordenadas/cantidadPoste5"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="72" name="varObjectCoordenadas_cantidadPoste6" type="InputText" id="9671754">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;cantidadPoste6 (varObjectCoordenadas)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectCoordenadas/cantidadPoste6"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="73" name="varObjectCoordenadas_faseUtilizar" type="InputText" id="1534078997">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;faseUtilizar (varObjectCoordenadas)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectCoordenadas/faseUtilizar"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="74" name="varObjectCoordenadas_fechaVenColegiado" type="InputText" id="1690423463">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;fechaVenColegiado (varObjectCoordenadas)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectCoordenadas/fechaVenColegiado"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="75" name="varObjectCoordenadas_longitudPoste1" type="InputText" id="833630867">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;longitudPoste1 (varObjectCoordenadas)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectCoordenadas/longitudPoste1"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="76" name="varObjectCoordenadas_longitudPoste2" type="InputText" id="870723938">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;longitudPoste2 (varObjectCoordenadas)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectCoordenadas/longitudPoste2"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="77" name="varObjectCoordenadas_longitudPoste3" type="InputText" id="1948009960">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;longitudPoste3 (varObjectCoordenadas)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectCoordenadas/longitudPoste3"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="78" name="varObjectCoordenadas_longitudPoste4" type="InputText" id="570361984">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;longitudPoste4 (varObjectCoordenadas)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectCoordenadas/longitudPoste4"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="79" name="varObjectCoordenadas_longitudPoste5" type="InputText" id="1366478005">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;longitudPoste5 (varObjectCoordenadas)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectCoordenadas/longitudPoste5"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="80" name="varObjectCoordenadas_longitudPoste6" type="InputText" id="801445084">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;longitudPoste6 (varObjectCoordenadas)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectCoordenadas/longitudPoste6"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="81" name="varObjectCoordenadas_materialPoste1" type="InputText" id="745338099">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;materialPoste1 (varObjectCoordenadas)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectCoordenadas/materialPoste1"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="82" name="varObjectCoordenadas_materialPoste2" type="InputText" id="1694379003">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;materialPoste2 (varObjectCoordenadas)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectCoordenadas/materialPoste2"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="83" name="varObjectCoordenadas_materialPoste3" type="InputText" id="433694749">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;materialPoste3 (varObjectCoordenadas)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectCoordenadas/materialPoste3"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="84" name="varObjectCoordenadas_materialPoste4" type="InputText" id="654166590">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;materialPoste4 (varObjectCoordenadas)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectCoordenadas/materialPoste4"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="85" name="varObjectCoordenadas_materialPoste5" type="InputText" id="295272099">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;materialPoste5 (varObjectCoordenadas)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectCoordenadas/materialPoste5"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="86" name="varObjectCoordenadas_materialPoste6" type="InputText" id="2023925393">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;materialPoste6 (varObjectCoordenadas)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectCoordenadas/materialPoste6"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="87" name="varObjectCoordenadas_matricula" type="InputText" id="2082581848">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;matricula (varObjectCoordenadas)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectCoordenadas/matricula"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="88" name="varObjectCoordenadas_nombreIng" type="InputText" id="380814425">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;nombreIng (varObjectCoordenadas)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectCoordenadas/nombreIng"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="89" name="varObjectCoordenadas_numColegiado" type="InputText" id="1266073326">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;numColegiado (varObjectCoordenadas)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectCoordenadas/numColegiado"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="90" name="varObjectCoordenadas_numConsColegiado" type="InputText" id="1237946806">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;numConsColegiado (varObjectCoordenadas)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectCoordenadas/numConsColegiado"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="91" name="varObjectCoordenadas_resolucion" type="InputText" id="653680788">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;resolucion (varObjectCoordenadas)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectCoordenadas/resolucion"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="92" name="varObjectCoordenadas_telefonoIng" type="InputText" id="880216150">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;telefonoIng (varObjectCoordenadas)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectCoordenadas/telefonoIng"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="93" name="varObjectCoordenadas_tipoMedicion" type="InputText" id="42161484">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;tipoMedicion (varObjectCoordenadas)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectCoordenadas/tipoMedicion"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="94" name="varObjectCoordenadas_xmts01" type="InputText" id="1411749261">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;xmts01 (varObjectCoordenadas)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectCoordenadas/xmts01"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="95" name="varObjectCoordenadas_xmts02" type="InputText" id="1002170450">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;xmts02 (varObjectCoordenadas)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectCoordenadas/xmts02"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="96" name="varObjectCoordenadas_xmts03" type="InputText" id="2079729349">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;xmts03 (varObjectCoordenadas)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectCoordenadas/xmts03"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="97" name="varObjectCoordenadas_xmts04" type="InputText" id="354933756">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;xmts04 (varObjectCoordenadas)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectCoordenadas/xmts04"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="98" name="varObjectCoordenadas_xmts05" type="InputText" id="408341771">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;xmts05 (varObjectCoordenadas)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectCoordenadas/xmts05"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="99" name="varObjectCoordenadas_xmts06" type="InputText" id="1830216230">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;xmts06 (varObjectCoordenadas)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectCoordenadas/xmts06"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="100" name="varObjectCoordenadas_xmts07" type="InputText" id="1338030307">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;xmts07 (varObjectCoordenadas)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectCoordenadas/xmts07"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="101" name="varObjectCoordenadas_xmts08" type="InputText" id="1283979603">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;xmts08 (varObjectCoordenadas)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectCoordenadas/xmts08"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="102" name="varObjectCoordenadas_xmts09" type="InputText" id="1590792153">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;xmts09 (varObjectCoordenadas)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectCoordenadas/xmts09"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="103" name="varObjectCoordenadas_xmts10" type="InputText" id="563254146">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;xmts10 (varObjectCoordenadas)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectCoordenadas/xmts10"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="104" name="varObjectCoordenadas_xmts11" type="InputText" id="716864507">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;xmts11 (varObjectCoordenadas)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectCoordenadas/xmts11"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="105" name="varObjectCoordenadas_xmts12" type="InputText" id="1989705494">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;xmts12 (varObjectCoordenadas)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectCoordenadas/xmts12"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="106" name="varObjectCoordenadas_xmts13" type="InputText" id="1211133995">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;xmts13 (varObjectCoordenadas)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectCoordenadas/xmts13"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="107" name="varObjectCoordenadas_xmts14" type="InputText" id="1631400725">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;xmts14 (varObjectCoordenadas)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectCoordenadas/xmts14"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="108" name="varObjectCoordenadas_xmts15" type="InputText" id="1824464700">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;xmts15 (varObjectCoordenadas)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectCoordenadas/xmts15"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="109" name="varObjectCoordenadas_xmts16" type="InputText" id="10988381">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;xmts16 (varObjectCoordenadas)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectCoordenadas/xmts16"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="110" name="varObjectCoordenadas_xmts17" type="InputText" id="30325225">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;xmts17 (varObjectCoordenadas)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectCoordenadas/xmts17"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="111" name="varObjectCoordenadas_xmts18" type="InputText" id="1670590301">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;xmts18 (varObjectCoordenadas)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectCoordenadas/xmts18"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="112" name="varObjectCoordenadas_xmts19" type="InputText" id="226576054">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;xmts19 (varObjectCoordenadas)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectCoordenadas/xmts19"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="113" name="varObjectCoordenadas_xmts20" type="InputText" id="1639210934">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;xmts20 (varObjectCoordenadas)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectCoordenadas/xmts20"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="114" name="varObjectCoordenadas_ymts01" type="InputText" id="791436862">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;ymts01 (varObjectCoordenadas)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectCoordenadas/ymts01"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="115" name="varObjectCoordenadas_ymts02" type="InputText" id="2135340194">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;ymts02 (varObjectCoordenadas)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectCoordenadas/ymts02"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="116" name="varObjectCoordenadas_ymts03" type="InputText" id="605973032">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;ymts03 (varObjectCoordenadas)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectCoordenadas/ymts03"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="117" name="varObjectCoordenadas_ymts04" type="InputText" id="215264267">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;ymts04 (varObjectCoordenadas)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectCoordenadas/ymts04"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="118" name="varObjectCoordenadas_ymts05" type="InputText" id="1216934486">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;ymts05 (varObjectCoordenadas)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectCoordenadas/ymts05"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="119" name="varObjectCoordenadas_ymts06" type="InputText" id="1614251112">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;ymts06 (varObjectCoordenadas)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectCoordenadas/ymts06"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="120" name="varObjectCoordenadas_ymts07" type="InputText" id="205973397">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;ymts07 (varObjectCoordenadas)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectCoordenadas/ymts07"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="121" name="varObjectCoordenadas_ymts08" type="InputText" id="439208098">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;ymts08 (varObjectCoordenadas)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectCoordenadas/ymts08"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="122" name="varObjectCoordenadas_ymts09" type="InputText" id="1488063008">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;ymts09 (varObjectCoordenadas)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectCoordenadas/ymts09"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="123" name="varObjectCoordenadas_ymts10" type="InputText" id="490111051">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;ymts10 (varObjectCoordenadas)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectCoordenadas/ymts10"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="124" name="varObjectCoordenadas_ymts11" type="InputText" id="1385213464">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;ymts11 (varObjectCoordenadas)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectCoordenadas/ymts11"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="125" name="varObjectCoordenadas_ymts12" type="InputText" id="1805822861">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;ymts12 (varObjectCoordenadas)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectCoordenadas/ymts12"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="126" name="varObjectCoordenadas_ymts13" type="InputText" id="291204958">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;ymts13 (varObjectCoordenadas)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectCoordenadas/ymts13"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="127" name="varObjectCoordenadas_ymts14" type="InputText" id="1393143043">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;ymts14 (varObjectCoordenadas)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectCoordenadas/ymts14"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="128" name="varObjectCoordenadas_ymts15" type="InputText" id="979505222">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;ymts15 (varObjectCoordenadas)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectCoordenadas/ymts15"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="129" name="varObjectCoordenadas_ymts16" type="InputText" id="497127557">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;ymts16 (varObjectCoordenadas)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectCoordenadas/ymts16"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="130" name="varObjectCoordenadas_ymts17" type="InputText" id="1379134460">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;ymts17 (varObjectCoordenadas)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectCoordenadas/ymts17"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="131" name="varObjectCoordenadas_ymts18" type="InputText" id="81062005">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;ymts18 (varObjectCoordenadas)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectCoordenadas/ymts18"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="132" name="varObjectCoordenadas_ymts19" type="InputText" id="1351689162">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;ymts19 (varObjectCoordenadas)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectCoordenadas/ymts19"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="133" name="varObjectCoordenadas_ymts20" type="InputText" id="684700401">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;ymts20 (varObjectCoordenadas)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="varObjectCoordenadas/ymts20"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<dataHolder inputId="" name="#A7E690" type="basicType" outId="bt" value="java.lang.String" id="bt"/>
+<dataHolder inputId="" name="#FF54A7" type="basicType" outId="cantidad10kva" value="java.lang.String" id="cantidad10kva"/>
+<dataHolder inputId="" name="#BBBBBB" type="basicType" outId="cantidad25kva" value="java.lang.String" id="cantidad25kva"/>
+<dataHolder inputId="" name="#9BCAFA" type="basicType" outId="cantidad50kva" value="java.lang.String" id="cantidad50kva"/>
+<dataHolder inputId="" name="#B29FE4" type="basicType" outId="cantidad75kva" value="java.lang.String" id="cantidad75kva"/>
+<dataHolder inputId="" name="#FBB767" type="basicType" outId="cantidadOtros" value="java.lang.String" id="cantidadOtros"/>
+<dataHolder inputId="" name="#FF8881" type="basicType" outId="capacidad" value="java.lang.String" id="capacidad"/>
+<dataHolder inputId="" name="#E9E371" type="basicType" outId="coordenadasX" value="java.lang.String" id="coordenadasX"/>
+<dataHolder inputId="" name="#FF54A7" type="basicType" outId="coordenadasY" value="java.lang.String" id="coordenadasY"/>
+<dataHolder inputId="" name="#FF54A7" type="basicType" outId="descripcionTranforma" value="java.lang.String" id="descripcionTranforma"/>
+<dataHolder inputId="" name="#0000A0" type="basicType" outId="dictamen" value="java.lang.String" id="dictamen"/>
+<dataHolder inputId="" name="#A7E690" type="basicType" outId="direObra" value="java.lang.String" id="direObra"/>
+<dataHolder inputId="" name="#B29FE4" type="basicType" outId="direRespuesta" value="java.lang.String" id="direRespuesta"/>
+<dataHolder inputId="" name="#BBBBBB" type="basicType" outId="empresa" value="java.lang.String" id="empresa"/>
+<dataHolder inputId="" name="#A7E690" type="basicType" outId="especificaciones" value="java.lang.String" id="especificaciones"/>
+<dataHolder inputId="" name="#B29FE4" type="basicType" outId="fases" value="java.lang.String" id="fases"/>
+<dataHolder inputId="" name="#FF54A7" type="basicType" outId="fecha" value="java.lang.String" id="fecha"/>
+<dataHolder inputId="" name="#B29FE4" type="basicType" outId="fechaEmision" value="java.lang.String" id="fechaEmision"/>
+<dataHolder inputId="" name="#9BCAFA" type="basicType" outId="longCircuitoBaja" value="java.lang.String" id="longCircuitoBaja"/>
+<dataHolder inputId="" name="#BBBBBB" type="basicType" outId="longCircuitoMedia" value="java.lang.String" id="longCircuitoMedia"/>
+<dataHolder inputId="" name="#E9E371" type="basicType" outId="lugar" value="java.lang.String" id="lugar"/>
+<dataHolder inputId="" name="#FBB767" type="basicType" outId="neutro" value="java.lang.String" id="neutro"/>
+<dataHolder inputId="" name="#FBB767" type="basicType" outId="noReferencia" value="java.lang.String" id="noReferencia"/>
+<dataHolder inputId="" name="#000000" type="basicType" outId="nombreInteresado" value="java.lang.String" id="nombreInteresado"/>
+<dataHolder inputId="" name="#FBB767" type="basicType" outId="nombreObra" value="java.lang.String" id="nombreObra"/>
+<dataHolder inputId="" name="#FF8881" type="basicType" outId="numClienteConectar" value="java.lang.String" id="numClienteConectar"/>
+<dataHolder inputId="" name="#E9E371" type="basicType" outId="potenciaTotal" value="java.lang.String" id="potenciaTotal"/>
+<dataHolder inputId="" name="#9BCAFA" type="basicType" outId="telefono" value="java.lang.String" id="telefono"/>
+<dataHolder inputId="" name="#000000" type="basicType" outId="tension" value="java.lang.String" id="tension"/>
+<dataHolder inputId="" name="#A7E690" type="basicType" outId="tipo10kva" value="java.lang.String" id="tipo10kva"/>
+<dataHolder inputId="" name="#FF8881" type="basicType" outId="tipo25kva" value="java.lang.String" id="tipo25kva"/>
+<dataHolder inputId="" name="#000000" type="basicType" outId="tipo50kva" value="java.lang.String" id="tipo50kva"/>
+<dataHolder inputId="" name="#0000A0" type="basicType" outId="tipo75kva" value="java.lang.String" id="tipo75kva"/>
+<dataHolder inputId="" name="#0000A0" type="basicType" outId="tipoServicio" value="java.lang.String" id="tipoServicio"/>
+<dataHolder inputId="" name="#E9E371" type="basicType" outId="varCodCaso" value="java.lang.String" id="varCodCaso"/>
+<dataHolder inputId="" name="#BBBBBB" type="basicType" outId="varGrupoIngreso" value="java.lang.String" id="varGrupoIngreso"/>
+<dataHolder inputId="" name="#0000A0" type="dataModelerEntry" outId="varObjectCoordenadas" value="ouenerguate.dictamen.ObjectCoordenadas" id="varObjectCoordenadas"/>
+<dataHolder inputId="" name="#9BCAFA" type="dataModelerEntry" outId="varObjectSolicitud" value="ouenerguate.dictamen.ObjectSolicitudDictamen" id="varObjectSolicitud"/>
+<dataHolder inputId="" name="#000000" type="dataModelerEntry" outId="varObjectTipoConductor" value="ouenerguate.dictamen.ObjectTipoConductor" id="varObjectTipoConductor"/>
+<dataHolder inputId="" name="#FF8881" type="dataModelerEntry" outId="varObjectTransformadores" value="ouenerguate.dictamen.ObjectTransformadores" id="varObjectTransformadores"/>
+</form>
